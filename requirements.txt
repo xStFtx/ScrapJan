@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+transformers
+torch
+numpy
+typing-extensions
+pathlib
+datetime
